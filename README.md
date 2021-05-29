@@ -1,8 +1,6 @@
-# WEBSITE PROFIL Krisna Dewa Pratama
-# krisdewa.github.io
+WEBSITE PROFIL Krisna Dewa Pratama
 
-USING CODE : 
-# HTML
-# CSS
-# Bootstrap
+krisdewa.github.io
+
+USING CODE : HTML, CSS, Javascript, Bootstrap
 
